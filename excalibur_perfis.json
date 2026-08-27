@@ -1,0 +1,12 @@
+{
+  "profiles": [
+    {
+      "name": "gaming",
+      "active": [
+        "LG ULTRAGEAR"
+      ],
+      "hotkey": "<ctrl>+j",
+      "hotkey_label": "Ctrl+J"
+    }
+  ]
+}
